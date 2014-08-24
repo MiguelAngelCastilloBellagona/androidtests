@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hola Usuario</string>
+    <string name="title_activity_saludo">Muestra Hola Usuario</string>
+    <string name="hello_world">!Hola Mundo!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="name">Nombre</string>
+    <string name="hello">Hola</string>
+
+</resources>
