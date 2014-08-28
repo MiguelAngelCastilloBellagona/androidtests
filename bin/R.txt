@@ -235,10 +235,10 @@ int drawable abc_textfield_searchview_holo_light 0x7f020054
 int drawable abc_textfield_searchview_right_holo_dark 0x7f020055
 int drawable abc_textfield_searchview_right_holo_light 0x7f020056
 int drawable ic_launcher 0x7f020057
-int id BtnHello 0x7f05003f
-int id LblName 0x7f05003d
-int id LinearLayout1 0x7f05003c
-int id TxtName 0x7f05003e
+int id BtnBoton2 0x7f05003f
+int id BtnHello 0x7f05003e
+int id LblName 0x7f05003c
+int id TxtName 0x7f05003d
 int id TxtSaludo 0x7f050040
 int id action_bar 0x7f05001c
 int id action_bar_activity_content 0x7f050015
@@ -348,6 +348,9 @@ int string app_name 0x7f0a000d
 int string hello 0x7f0a0012
 int string hello_world 0x7f0a000f
 int string name 0x7f0a0011
+int string off 0x7f0a0014
+int string on 0x7f0a0015
+int string pulsame 0x7f0a0013
 int string title_activity_saludo 0x7f0a000e
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c
